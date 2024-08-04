@@ -1,0 +1,28 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Component-specific styles */
+h1 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
